@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="FlipCards.API/FlipCards.API.csproj" />
+  <Project Path="FlipCards.UI/flipcards.ui.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
